@@ -1,0 +1,21 @@
+{
+	"name": "vite",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@sergeymakinen/vite-plugin-html-minimize": "^2.1.1",
+		"glob": "^10.3.10",
+		"lightningcss": "^1.22.0",
+		"sass": "^1.77.8",
+		"sharp": "^0.34.5",
+		"svgo": "^4.0.0",
+		"vite": "^5.0.0",
+		"vite-plugin-image-optimizer": "^2.0.3"
+	}
+}
